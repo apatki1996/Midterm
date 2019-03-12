@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="empty" />
+    <string name="date">Date:</string>
+    <string name="album_name">Album:</string>
+    <string name="artist">Artist:</string>
+    <string name="track">Track:</string>
+    <string name="song">song</string>
+    <string name="limit">Limit:</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort By:</string>
+    <string name="results">Search results</string>
+    <string name="track_rating">Track Rating</string>
+    <string name="artist_rating">Artist Rating</string>
+</resources>
